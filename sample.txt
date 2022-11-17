@@ -1,3 +1,4 @@
 sample file
 appending new line 
 third line
+new line
