@@ -1,4 +1,4 @@
-sample file
+sample1 file
 appending new line 
 third line
 new line
